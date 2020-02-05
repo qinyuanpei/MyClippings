@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zkkysqs/blog.git"
+    "url": "git+https://github.com/qinyuanpei/MyClippings.git"
   },
-  "author": "",
+  "author": "Payne",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zkkysqs/blog/issues"
+    "url": "https://github.com/qinyuanpei/MyClippings/issues"
   },
-  "homepage": "https://github.com/zkkysqs/blog#readme",
+  "homepage": "https://github.com/qinyuanpei/MyClippings#readme",
   "dependencies": {}
 }
