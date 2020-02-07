@@ -99,7 +99,7 @@ def main():
     clips.update(load_clips())
 
     # extract clips
-    sections = get_sections(u'My Clippings.txt')
+    sections = get_sections(u'./Kindle/My Clippings.txt')
     for section in sections:
         clip = get_clip(section)
         if clip:
