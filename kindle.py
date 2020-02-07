@@ -59,6 +59,7 @@ def export_txt(clips):
             lines.append(clips[book][pos][0])
             lines.append('>' + clips[book][pos][1])
         
+        book = book.replace('wheremylife','WhereMyLife')
         fileId = hashlib.md5(book.encode(encoding='utf-8')).hexdigest()
         fileName = os.path.join(OUTPUT_DIR, u"%s.md" % fileId)
         books.append({"bookName":book,"fileId":fileId})

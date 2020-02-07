@@ -18,8 +18,6 @@
 
 * [站在两个世界的边缘 (理想国) (程浩)](books/0a37b6168fd549e9b0da8b0cb0e94cfa.md)
 
-* [浮生六记(全本全译全注·作家榜插图珍藏版) (作家榜经典文库) (沈复)](books/3c6ca67691723cd0805b80e1237c0a09.md)
-
 * [小王子 (圣艾克絮佩里)](books/add6963973e24ade8d2d06d0f3805a1a.md)
 
 * [起风了 ([日]堀辰雄)](books/b5e295a7ed569f839a3986e3b80dc429.md)
@@ -70,22 +68,30 @@
 
 * [人间便利店（荣获芥川奖，引起日本社会集体沉思的现实主义话题之作！换个角度，也许能看到不一样的世界！） (村田沙耶香)](books/9044e64e953ead9f5dd964a7d3ac7e20.md)
 
-* [wheremylife-10-14 (WhereMyLife)](books/96942349473a95448c120be43bf8907e.md)
+* [WhereMyLife-10-14 (WhereMyLife)](books/d2948957da378e8794890ed9fbe1ec21.md)
 
 * [人鼠之间 (COAY.COM)](books/0aee4bb5c485d0ceec1a58b515ec43fb.md)
 
-* [wheremylife-10-18 (WhereMyLife)](books/231076f5857b7f3d62f44a7278e87c07.md)
+* [WhereMyLife-10-18 (WhereMyLife)](books/dbd84406fdb0a791ec2c8c14ed898cbe.md)
 
-* [wheremylife-10-23 (WhereMyLife)](books/5c96f1ad5a19c4bc8cb95dfc9fb9c178.md)
+* [WhereMyLife-10-23 (WhereMyLife)](books/52f10a5e3e0823cb7066575eaba5b1c6.md)
 
 * [敦煌 (井上靖)](books/11f78cc06975b26f891359fc6146360e.md)
 
-* [wheremylife-12-05 (WhereMyLife)](books/03126eb77795e9d2a667cf175b45396e.md)
+* [WhereMyLife-12-05 (WhereMyLife)](books/a47c5c5ff2196b8fed7477efd88e48a9.md)
 
-* [wheremylife-12-04 (WhereMyLife)](books/c963b611756d1c11040c7be8abac82ee.md)
+* [WhereMyLife-12-04 (WhereMyLife)](books/7aa64701420beabdca50f650ef80c358.md)
 
 * [超市里的原始人 (杰弗里·米勒（Geoffrey Miller))](books/83b4c539bda809eebc4b654dfe585081.md)
 
 * [人生护城河：如何建立自己真正的优势 (张辉)](books/09bce2f9f33ab4f258313cb451a256de.md)
 
 * [人人都在说谎：赤裸裸的数据真相 (赛思·斯蒂芬斯·达维多维茨)](books/c218a0af4c3f6e15b2d72013c1c091f9.md)
+
+* [浮生六记(作家榜插图珍藏版·全本全译全注) (作家榜经典文库)  (沈复)](books/e57f547583b81e9f2e2f90d9da2c220a.md)
+
+* [WhereMyLife-02-04 (WhereMyLife)](books/ded4882d9244c70e3c801ac091b12a00.md)
+
+* [WhereMyLife-02-05 (WhereMyLife)](books/dee2ed42dbd237dfb1d1a3b0a19f1b6a.md)
+
+* [MacTalk跨越边界(池建强)](books/MacTalk跨越边界-池建强.md)
