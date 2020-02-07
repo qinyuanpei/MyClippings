@@ -1,8 +1,8 @@
 # MyClippings
 
-一个基于 [docsify](https://github.com/docsifyjs/docsify/) 的 Kindle 批注整理站点.
+一个基于 [docsify](https://github.com/docsifyjs/docsify/) 的 Kindle 批注整理站点。目前，已支持`Kindle`和`微信读书`的笔记导入。
 
-目前，已支持`Kindle`和`微信读书`的笔记导入。
+Hi Payne，截至2020-02-07，你已经积累了62篇书摘，请继续努力！
 
 ## Kindle：
 * 请将`My Clippings.txt`文件放置在`./data/Kindle/`目录下
